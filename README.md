@@ -221,3 +221,4 @@ docker-compose up -d
 ## 📄 License
 
 [Your License Here]
+# yumyum-strapi
